@@ -28,11 +28,11 @@ A senior Unity mentor that answers C# and Unity 2022.3 LTS questions the way a p
 
 ## Installation
 
-1. Download the `.skill` file for the skill you want from [Releases](../../releases.
-2. Go to **Claude.ai → Settings → Skills**.
-3. Click **Install skill** and upload the file.
+1. Download the `.skill` file for the skill you want.
+2. Go to **Claude.ai → Customize → Skills**.
+3. Click plus button and **Upload a skill** and upload the `.skill` file.
 
-Done. Claude will automatically use the skill whenever it's relevant.
+Done. Claude will automatically use the skill whenever it's relevant. Alternatively, you can use the slash `/` commands to activate it at will.
 
 ---
 
